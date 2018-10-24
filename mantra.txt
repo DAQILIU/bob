@@ -1,6 +1,2 @@
 Python Python Python
-Want me some Python
-
-this is to test the git
-
-changes test
+this is mantra on feature1
